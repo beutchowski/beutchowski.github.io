@@ -1,5 +1,14 @@
-Dossier pour s'entrainer au web
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- head definitions go here -->
+    </head>
+    <body>
+        <!-- Dossier pour s'entrainer au web
 
 adresse :
 
-beutchowski.github.io
+beutchowski.github.io -->
+    </body>
+</html>
